@@ -1,1 +1,1 @@
-# Prueba_T-nica-Jr
+# Prueba_Tecnica-Jr
