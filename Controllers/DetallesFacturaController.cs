@@ -57,6 +57,7 @@ namespace FacturacionMVC.Controllers
         public async Task<IActionResult> Create([Bind("Id,IdFactura,IdProducto,Cantidad,PrecioUnitario")] DetalleFactura detalleFactura)
         {
             if (ModelState.IsValid)
+                
             {
                 _context.Add(detalleFactura);
                 await _context.SaveChangesAsync();
