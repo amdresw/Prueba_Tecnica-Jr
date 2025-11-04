@@ -1,4 +1,5 @@
-📋 Sistema de Facturación MVC
+##📋 Sistema de Facturación MVC
+
 Sistema web de gestión de facturas desarrollado con ASP.NET Core MVC y PostgreSQL. Incluye API REST para integración con otros sistemas.
 🎯 Características
 
