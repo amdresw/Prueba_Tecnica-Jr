@@ -26,12 +26,112 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\andres\Documents\CAMPUS\C#\.Net\Prueba Tecnica Jr\FacturacionMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/DetallesFactura/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNGYWN0dXJhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/DetallesFactura/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNGYWN0dXJhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/DetallesFactura/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNGYWN0dXJhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/DetallesFactura/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNGYWN0dXJhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/DetallesFactura/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNGYWN0dXJhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Emisores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1pc29yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Emisores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1pc29yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Emisores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1pc29yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Emisores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1pc29yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Emisores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1pc29yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Facturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Facturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Facturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Facturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Facturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Productos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Productos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Productos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Productos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Productos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/andres/Documents/CAMPUS/C\#/.Net/Prueba Tecnica Jr/FacturacionMVC/Views/Shared/Error.cshtml]
