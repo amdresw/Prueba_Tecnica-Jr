@@ -85,6 +85,9 @@ namespace FacturacionMVC.Migrations
                     b.Property<decimal>("PrecioUnitario")
                         .HasColumnType("numeric(10,2)");
 
+                    b.Property<decimal>("Subtotal")
+                        .HasColumnType("numeric(12,2)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("IdFactura");
@@ -141,7 +144,7 @@ namespace FacturacionMVC.Migrations
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("Fecha")
-                        .HasColumnType("timestamp with time zone");
+                        .HasColumnType("timestamp without time zone");
 
                     b.Property<int>("IdCliente")
                         .HasColumnType("integer");
