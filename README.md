@@ -1,4 +1,4 @@
-##📋 Sistema de Facturación MVC
+## 📋 Sistema de Facturación MVC
 
 Sistema web de gestión de facturas desarrollado con ASP.NET Core MVC y PostgreSQL. Incluye API REST para integración con otros sistemas.
 🎯 Características
@@ -42,7 +42,7 @@ git clone https://github.com/amdresw/Prueba_Tecnica-Jr/tree/develop
 
 ```
 "ConnectionStrings": {
-  "DefaultConnection": "Host=localhost;Port=5432;Database=sistema_automotriz;Username=postgres;Password=tu_contraseña"
+  "DefaultConnection": "Host=localhost;Port=5432;Database=ConexusDemo;Username=postgres;Password=tu_contraseña"
 }
 ```
 3. Aplicar las migraciones de la base de datos
